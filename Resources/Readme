@@ -1,1 +1,5 @@
+In this folder there are two contents for appyling sentiement analysis. The python script should be opened within jupyter notebooks but can be accessed in other IDE's with small editing.
 
+The Movie review excel file contains each movie review and is utlizied by the python scripts.
+
+Running the script requires some previous librarys to be installed: Metaplotlib.pyplot, Pandas, NLTK, Textblob and Operator. After installation be sure to run each cell down onwards to allow for the algorithm to be developed properly. 
